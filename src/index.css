@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'NeueMontreal-Regular';
+  src: url('/fonts/NeueMontreal-Regular.otf');
+}
+
+@font-face {
+  font-family: 'NeueMontreal-Medium';
+  src: url('/fonts/NeueMontreal-Medium.otf');
+}
+
+@font-face {
+  font-family: 'PPEiko-Medium';
+  src: url('/fonts/PPEiko-Medium.otf');
+}
+
+@font-face {
+  font-family: 'PPEiko-Thin';
+  src: url('/fonts/PPEiko-Thin.otf');
+}
